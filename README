@@ -1,0 +1,3 @@
+Simplistic library for handling dates in a PLIST format, like (:year 2009 :day 1 :month 3)
+Includes support for English, German and Russian names
+Also provides a couple of utility time functions
